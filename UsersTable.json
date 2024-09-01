@@ -1,0 +1,17 @@
+[
+    { "id": "ag101", "name": "Shubhankar", "email": "shubhankar@agsure.com", "device": "Android SM42Y" },
+    { "id": "ag102", "name": "Amol", "email": "amol@agsure.com", "device": "Android RMX51" },
+    { "id": "ag103", "name": "Saket", "email": "saket@gmail.com", "device": "IOS 253XP" },
+    { "id": "ag104", "name": "Rahul", "email": "rahul@agsure.com", "device": "IOS 14XR" },
+    { "id": "ag105", "name": "Neha", "email": "neha@agsure.com", "device": "Android S10" },
+    { "id": "ag106", "name": "Ankit", "email": "ankit@agsure.com", "device": "IOS 11PX" },
+    { "id": "ag107", "name": "Pooja", "email": "pooja@agsure.com", "device": "Android SM42Y" },
+    { "id": "ag108", "name": "Shubhankar", "email": "shubhankar@agsure.com", "device": "Android SM42Y" },
+    { "id": "ag109", "name": "Varun", "email": "varun@agsure.com", "device": "Android RMX52" },
+    { "id": "ag110", "name": "Neha", "email": "neha@agsure.com", "device": "Android S10" },
+    { "id": "ag111", "name": "Anjali", "email": "anjali@agsure.com", "device": "IOS 253XP" },
+    { "id": "ag112", "name": "Ravi", "email": "ravi@agsure.com", "device": "Android SM42Y" },
+    { "id": "ag113", "name": "Neha", "email": "neha@agsure.com", "device": "Android S10" },
+    { "id": "ag114", "name": "Shubhankar", "email": "shubhankar@agsure.com", "device": "Android SM42Y" },
+    { "id": "ag115", "name": "Rahul", "email": "rahul@agsure.com", "device": "IOS 14XR" }
+]
