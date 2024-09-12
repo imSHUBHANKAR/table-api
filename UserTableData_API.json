@@ -1,0 +1,68 @@
+{
+    "success": true,
+    "message": "User data fetched successfully.",
+    "parameters": {
+        "current_user": {
+            "id": 4,
+            "full_name": "Manish kumar",
+            "mobile_number": "7250546550",
+            "phone_otp": 0,
+            "email_id": "734manish@gmail.com",
+            "product_id": "1001",
+            "phone_otp_verified_at": null,
+            "bill_number": "BILL12345",
+            "is_blocked": 0,
+            "created_at": "2024-09-07 18:15:59"
+        },
+        "registered_users": [
+            {
+                "user_id": "1862",
+                "role_id": 1,
+                "full_name": "Biju",
+                "mobile_number": "8191737483",
+                "password_hash": "$2y$10$hyqtal5FPeGpD4zfe2rDn.yS6xC4cO19WbMwZT2vpyPmGUSzRfU.W",
+                "email_id": "null",
+                "phone_otp": 8435,
+                "email_otp": null,
+                "phone_otp_verified_at": null,
+                "email_otp_verified_at": null,
+                "prefered_language": "ENGLISH",
+                "reffered_by": null,
+                "company_name": null,
+                "address": null,
+                "city": null,
+                "city_latitude": null,
+                "city_longitude": null,
+                "profile_url": null,
+                "gst_no": null,
+                "is_video": "NO",
+                "added_at": "2024-07-27 15:01:40",
+                "is_blocked": 0
+            },
+            {
+                "user_id": "1428",
+                "role_id": 1,
+                "full_name": "Sathish ",
+                "mobile_number": "9342544252",
+                "password_hash": null,
+                "email_id": "sathishrc2022@gmail.com",
+                "phone_otp": 5525,
+                "email_otp": 2084,
+                "phone_otp_verified_at": "2024-05-09 16:55:59",
+                "email_otp_verified_at": "2023-08-23 23:30:37",
+                "prefered_language": "ENGLISH",
+                "reffered_by": null,
+                "company_name": "TT",
+                "address": "Muthuaamy colony, coimbatore,\nTest\nVyfjcujk",
+                "city": "Coimbatore, Tamil Nadu, India",
+                "city_latitude": null,
+                "city_longitude": null,
+                "profile_url": "2024050618051670072.jpeg",
+                "gst_no": null,
+                "is_video": "YES",
+                "added_at": "2023-05-31 22:43:14",
+                "is_blocked": 0
+            }
+        ]
+    }
+}
